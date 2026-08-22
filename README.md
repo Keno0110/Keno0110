@@ -66,10 +66,7 @@ My goal is to keep learning by actually <strong>building things</strong> rather
 than only reading about them.
 </p>
 
-<h2>⚡ Beyond Tech</h2><p align="center">
-  🧗 Rock Climbing &nbsp; • &nbsp;
-  🐈 Four Cats &nbsp; • &nbsp;
-</p>
+
 
 <h2 align="center">📈 The Journey</h2><p align="center">
   <code>Learning</code>
