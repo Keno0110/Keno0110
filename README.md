@@ -12,7 +12,7 @@ I'm especially interested in the place where <strong>software, hardware, and inf
 I learn by building things, breaking them, figuring out why they broke, and fixing them.
 </p><blockquote>
 <strong>Have a problem → understand it → build a solution → break it → fix it → learn.</strong>
-</blockquote>---
+</blockquote>
 
 <h2>💻 Languages & Tools</h2><p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
