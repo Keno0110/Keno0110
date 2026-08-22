@@ -1,7 +1,6 @@
 Hey, I'm Keno 👋
 
 I'm a computer enthusiast and aspiring engineer who loves solving problems, building things, and understanding how computers work underneath the surface.
-
 I'm new to software engineering and currently learning C, while exploring Linux, systems, networking, and infrastructure.
 
 🛠️ What I'm Into
@@ -19,10 +18,6 @@ My long-term goal is to work in SRE, DevOps, Embedded Systems, or Data Center En
 🌱 Currently Learning
 
 "C" • "Linux" • "Git" • "Bash" • "Networking" • "Systems"
-
-I'm learning by building things, breaking them, figuring out why, and making them work again.
-
-«Have a problem → understand it → build a solution → break it → fix it → learn.»
 
 🚀 What I Want to Build
 
