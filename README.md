@@ -2,7 +2,7 @@
   <strong>Aspiring Engineer • Builder • Problem Solver</strong>
 </p><p align="center">
   <em>Learning how computers work from the ground up.</em>
-</p>---
+</p>
 
 <h2>🧠 About Me</h2><p>
 I'm a computer enthusiast who loves <strong>solving problems, building things, and understanding how systems work</strong>.
