@@ -26,7 +26,7 @@ I learn by building things, breaking them, figuring out why they broke, and fixi
   <strong>Currently learning:</strong> C • Linux
 </p><p>
   <strong>Exploring next:</strong> Git • Bash • Networking • Systems Programming
-</p>---
+</p>
 
 <h2>⚙️ Interests</h2><p align="center">
   🖥️ <strong>Systems</strong>
@@ -42,7 +42,7 @@ I learn by building things, breaking them, figuring out why they broke, and fixi
   🖥️ <strong>Servers</strong>
   &nbsp; • &nbsp;
   ⚙️ <strong>Automation</strong>
-</p>---
+</p>
 
 <h2>🚀 Where I'm Headed</h2><p align="center">
   <strong>SRE</strong>
@@ -56,7 +56,7 @@ I learn by building things, breaking them, figuring out why they broke, and fixi
 I don't just want to learn how to write code. I want to understand
 <strong>what happens underneath it</strong> — how operating systems, hardware,
 networks, servers, and large-scale systems actually work.
-</p>---
+</p>
 
 <h2>🔨 What I Like Building</h2><p>
 I'm interested in projects involving <strong>Linux, servers, networking,
@@ -64,14 +64,12 @@ automation, hardware, embedded systems, and home labs</strong>.
 </p><p>
 My goal is to keep learning by actually <strong>building things</strong> rather
 than only reading about them.
-</p>---
+</p>
 
 <h2>⚡ Beyond Tech</h2><p align="center">
   🧗 Rock Climbing &nbsp; • &nbsp;
   🐈 Four Cats &nbsp; • &nbsp;
-  🤖 <i>Neon Genesis Evangelion</i> &nbsp; • &nbsp;
-  🕷️ <i>Hunter × Hunter</i>
-</p>---
+</p>
 
 <h2 align="center">📈 The Journey</h2><p align="center">
   <code>Learning</code>
