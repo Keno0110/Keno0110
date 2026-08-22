@@ -32,11 +32,10 @@ I don't just want to learn how to write code — I want to understand what happe
 
 ⚡ Outside of Tech
 
-- 🧗 Rock climbing
-- 🐈 Four cats
-- 🤖 Neon Genesis Evangelion
-- 🕷️ Hunter × Hunter
-- 🔧 Probably troubleshooting something that should have worked five hours ago
+- I love Rock climbing
+- I have Four cats
+- My favorite animes are Neon Genesis Evangelion and Hunter × Hunter
+-  Probably troubleshooting something that should have worked five hours ago
 
 📈 The Journey
 
