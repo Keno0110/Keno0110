@@ -1,39 +1,90 @@
-Hey, I'm Keno 👋
+<h1 align="center">Hey, I'm Keno 👋</h1><p align="center">
+  <strong>Aspiring Engineer • Builder • Problem Solver</strong>
+</p><p align="center">
+  <em>Learning how computers work from the ground up.</em>
+</p>---
 
-I'm a computer enthusiast and aspiring engineer who loves solving problems, building things, and understanding how computers work underneath the surface.
-I'm new to software engineering and currently learning C, while exploring Linux, systems, networking, and infrastructure.
+<h2>🧠 About Me</h2><p>
+I'm a computer enthusiast who loves <strong>solving problems, building things, and understanding how systems work</strong>.
+I'm new to software engineering and currently learning <strong>C</strong> and <strong>Linux</strong>, while exploring systems, networking, infrastructure, and hardware.
+</p><p>
+I'm especially interested in the place where <strong>software, hardware, and infrastructure meet</strong>.
+I learn by building things, breaking them, figuring out why they broke, and fixing them.
+</p><blockquote>
+<strong>Have a problem → understand it → build a solution → break it → fix it → learn.</strong>
+</blockquote>---
 
-🛠️ What I'm Into
+<h2>💻 Languages & Tools</h2><p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux" />
+  </a>
+</p><p>
+  <strong>Currently learning:</strong> C • Linux
+</p><p>
+  <strong>Exploring next:</strong> Git • Bash • Networking • Systems Programming
+</p>---
 
-- 🖥️ Systems & low-level programming
-- ⚙️ DevOps & automation
-- 🌐 Networking & infrastructure
-- 🔌 Embedded systems
-- 🗄️ Servers & data centers
-- 🐧 Linux
-- 🧩 Troubleshooting & problem solving
+<h2>⚙️ Interests</h2><p align="center">
+  🖥️ <strong>Systems</strong>
+  &nbsp; • &nbsp;
+  🐧 <strong>Linux</strong>
+  &nbsp; • &nbsp;
+  🌐 <strong>Networking</strong>
+  &nbsp; • &nbsp;
+  🗄️ <strong>Infrastructure</strong>
+  &nbsp; • &nbsp;
+  🔌 <strong>Embedded</strong>
+  &nbsp; • &nbsp;
+  🖥️ <strong>Servers</strong>
+  &nbsp; • &nbsp;
+  ⚙️ <strong>Automation</strong>
+</p>---
 
-My long-term goal is to work in SRE, DevOps, Embedded Systems, or Data Center Engineering.
+<h2>🚀 Where I'm Headed</h2><p align="center">
+  <strong>SRE</strong>
+  &nbsp; • &nbsp;
+  <strong>DevOps Engineer</strong>
+  &nbsp; • &nbsp;
+  <strong>Embedded Systems Engineer</strong>
+  &nbsp; • &nbsp;
+  <strong>Data Center Engineer</strong>
+</p><p>
+I don't just want to learn how to write code. I want to understand
+<strong>what happens underneath it</strong> — how operating systems, hardware,
+networks, servers, and large-scale systems actually work.
+</p>---
 
-🌱 Currently Learning
+<h2>🔨 What I Like Building</h2><p>
+I'm interested in projects involving <strong>Linux, servers, networking,
+automation, hardware, embedded systems, and home labs</strong>.
+</p><p>
+My goal is to keep learning by actually <strong>building things</strong> rather
+than only reading about them.
+</p>---
 
-"C" • "Linux" • "Git" • "Bash" • "Networking" • "Systems"
+<h2>⚡ Beyond Tech</h2><p align="center">
+  🧗 Rock Climbing &nbsp; • &nbsp;
+  🐈 Four Cats &nbsp; • &nbsp;
+  🤖 <i>Neon Genesis Evangelion</i> &nbsp; • &nbsp;
+  🕷️ <i>Hunter × Hunter</i>
+</p>---
 
-🚀 What I Want to Build
-
-I'm especially interested in projects involving Linux, servers, networking, automation, hardware, embedded systems, and home labs.
-
-I don't just want to learn how to write code — I want to understand what happens underneath it.
-
-⚡ Outside of Tech
-
-- I love Rock climbing
-- I have Four cats
-- My favorite animes are Neon Genesis Evangelion and Hunter × Hunter
--  Probably troubleshooting something that should have worked five hours ago
-
-📈 The Journey
-
-Learning → Building → Breaking → Debugging → Understanding → Building Better
-
-I'm just getting started.
+<h2 align="center">📈 The Journey</h2><p align="center">
+  <code>Learning</code>
+  →
+  <code>Building</code>
+  →
+  <code>Breaking</code>
+  →
+  <code>Debugging</code>
+  →
+  <code>Understanding</code>
+  →
+  <code>Building Better</code>
+</p><p align="center">
+  <strong>Just getting started.</strong> 🚀
+</p>
